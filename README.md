@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @harshikunjol
+- 👋 Hi, I’m @Harshitha
 - 👀 I’m interested in Developing new career
 - 🌱 I’m currently learning Data science and ML
 - 💞️ I’m looking for a great opertunity.
